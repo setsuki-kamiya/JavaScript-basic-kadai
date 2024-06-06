@@ -15,5 +15,5 @@ else if(num % 5 === 0){
 }
 
 else{
-  console.log('条件に合いませんでした');
+  console.log('条件に合いませんでした:' + num);
 }
